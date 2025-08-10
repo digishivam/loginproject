@@ -1,4 +1,5 @@
 # Login Project
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e01dbe9f-5568-4b97-a273-420122070573/deploy-status)](https://app.netlify.com/projects/gorgeous-naiad-7437dd/deploys)
 
 ## Overview
 This project is designed as a foundational template for creating a user login system. It provides the basic setup and structure required to implement authentication features in your application. The repository is suitable for learning purposes, prototyping, or as a starting point for extending login functionalities.
